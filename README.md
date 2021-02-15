@@ -1,2 +1,2 @@
-# MyBooks
-MyBooks is the best app
+# НЛК
+Создание Научного Личного Кабинета с использованием сетки Bootstrap.
